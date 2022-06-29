@@ -1,3 +1,3 @@
 {
-  "description": "This is probably one of my greater used tools, I developed it to allow me to automate process management across my servers. I had an issue where fatal crashes would cause processes to stop and go down without me noticing, so this tool was designed around the existing PM2 API to allow one super stable server to oversee and manage processes across all of my servers to reduce my downtime."
+  "description": "This project developed my skills to hook existing application APIs, create new APIs, and automate tasks repetitive tasks."
 }
